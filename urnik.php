@@ -53,6 +53,7 @@
 
 <div class="skrij-se-prihaja-jujetova-koda">
   <iframe src="https://www.easistent.com/urniki/30a1b45414856e5598f2d137a5965d5a4ad36826/razredi/424558" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
+  <p><b>Opozorilo: </b>Ta urnik ni za vse! To je splošni urnik za naš razred! Možno je, da ma kdo rahlo drugačnega!</p>
 </div>
 
 
