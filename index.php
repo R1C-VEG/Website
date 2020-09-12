@@ -28,6 +28,7 @@
   </head>
   <body>
 
+    
   <?php
     require 'navbar.html';
   ?>
