@@ -11,21 +11,12 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     
+    <!-- Naš CSS -->
+    <link rel="stylesheet" href="/css/base.css">
+
     <style>
 
-/*Ta koda je za ozadje*/
-      body {
-        background-image: url("background.png");
-        background-repeat: no-repeat;
-        background-size: cover;
-      }
-
-/*Ta koda spreminja barvo bloka, ko greš čez njega*/
-      li a:hover {
-        background-color: #111;
-      }
-      
-/*ta gavno je za iframe za urnik*/
+      /*ta gavno je za iframe za urnik*/
       .skrij-se-prihaja-jujetova-koda{
         margin:50px;
         border-radius:15px;
@@ -39,22 +30,17 @@
   <body>
 
 
-<!--Ta koda zloada navbar.html file da nam ni treba za vsako spremembo pr navbaru editat vseh html filou-->
-  <?php
-    require 'navbar.html';
-  ?>
+    <!--Ta koda zloada navbar.html file da nam ni treba za vsako spremembo pr navbaru editat vseh html filou-->
+    <?php
+      require 'templates/navbar.html';
+    ?>
 
+    <!--tale neurejena, complicated, napol ukradena koda zloada urink iz urnik.vegova.si in ga automatsko adjusta na screen size. probably. -->
 
-
-
-
-
-<!--tale neurejena, complicated, napol ukradena koda zloada urink iz urnik.vegova.si in ga automatsko adjusta na screen size. probably. -->
-
-<div class="skrij-se-prihaja-jujetova-koda">
-  <iframe src="https://www.easistent.com/urniki/30a1b45414856e5598f2d137a5965d5a4ad36826/razredi/424558" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
-  <p><b>Opozorilo: </b>Ta urnik ni za vse! To je splošni urnik za naš razred! Možno je, da ma kdo rahlo drugačnega!</p>
-</div>
+    <div class="skrij-se-prihaja-jujetova-koda">
+      <iframe src="https://www.easistent.com/urniki/30a1b45414856e5598f2d137a5965d5a4ad36826/razredi/424558" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:600px;width:100%;border:none;overflow:hidden;"></iframe>
+      <p><b>Opozorilo: </b>Ta urnik ni za vse! To je splošni urnik za naš razred! Možno je, da ma kdo rahlo drugačnega!</p>
+    </div>
 
 
     <!-- Optional JavaScript -->

@@ -11,26 +11,15 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     
-    <style>
+    <!-- Naš CSS -->
+    <link rel="stylesheet" href="/css/base.css">
 
-/*Ta koda je za ozadje*/
-      body {
-        background-image: url("background.png");
-        background-repeat: no-repeat;
-        background-size: cover;
-      }
-
-/*Ta koda spreminja barvo bloka, ko greš čez njega*/
-      li a:hover {
-        background-color: #111;
-      }
-    </style>
   </head>
   <body>
 
-  <?php
-    require 'navbar.html';
-  ?>
+    <?php
+      require 'templates/navbar.html';
+    ?>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

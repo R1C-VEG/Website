@@ -1,0 +1,12 @@
+/*Ta koda je za ozadje*/
+body { 
+    background: url(../assets/background.png) no-repeat center fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+/*Ta koda spreminja barvo bloka, ko greš čez njega*/
+li a:hover {
+    background-color: #111;
+}
