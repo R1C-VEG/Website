@@ -34,7 +34,7 @@
     <p>Evo, tuki gor mate uporabne linke. Upam, da vam bodo kaj pomagali!
        </p>
     <br>
-    <p>Za predloge kaj bi dali tuki pišite na discordu.
+    <p>Za predloge kaj bi dali tuki pišite na discordu (@Programerji).
       </p>
     
   </body>
