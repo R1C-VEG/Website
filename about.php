@@ -29,7 +29,7 @@
 
     <h1> Eto to je naša stran.
       </h1>    
-    <p>Za prodramiranje in urejanje strani nas kontaktirajte na discordu (@Programerji)</p>
+    <p>Za programiranje in urejanje strani nas kontaktirajte na discordu (@Programerji)</p>
     
   </body>
 </html>
