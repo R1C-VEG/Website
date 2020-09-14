@@ -31,6 +31,11 @@
 
     <h1>Pozdravljen na naši strani!
       </h1>
+    <p>Evo, tuki gor mate uporabne linke. Upam, da vam bodo kaj pomagali!
+       </p>
+    <br>
+    <p>Za predloge kaj bi dali tuki pišite na discordu.
+      </p>
     
   </body>
 </html>
