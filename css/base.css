@@ -11,7 +11,18 @@ li a:hover {
     background-color: #111;
 }
 
-.text_v_stalinu {
-    text-position:center;
-    
+.wDiv {
+    position: relative;
+    background-color: white;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 20px;
+    border-style: solid;
+    border-color:#007BAC;
+    border-width: 5px;
+    top: 35%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    margin: 5%;
+    padding: 20px;
 }

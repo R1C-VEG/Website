@@ -23,22 +23,17 @@
       require 'templates/navbar.html';
     ?>
 
+    <div class="wDiv">
+      <h1 class="text-center border-bottom pb-3"> Pozdravljen na naši strani! </h1>
+        <p class="pt-3"> Evo, tuki gor mate uporabne linke. Upam, da vam bodo kaj pomagali! </p>
+        <p> Za predloge kaj bi dali tuki pišite na discordu (@Programerji). </p>
+    </div>
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-
-    
-    <div class="text_v_stalinu">
-    <h1>Pozdravljen na naši strani!
-      </h1>
-    <p>Evo, tuki gor mate uporabne linke. Upam, da vam bodo kaj pomagali!
-       </p>
-    <br>
-    <p>Za predloge kaj bi dali tuki pišite na discordu (@Programerji).
-      </p>
-    </div>
     
   </body>
 </html>

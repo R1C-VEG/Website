@@ -27,9 +27,10 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 
-    <h1> Eto to je naša stran.
-      </h1>    
-    <p>Za programiranje in urejanje strani nas kontaktirajte na discordu (@Programerji).</p>
+    <div class="wDiv">
+      <h1 class="text-center border-bottom pb-3"> Eto to je naša stran. </h1>    
+      <p class="pt-3"> Za programiranje in urejanje strani nas kontaktirajte na discordu (@Programerji). </p>
+    </div>
     
   </body>
 </html>
