@@ -2,6 +2,15 @@
 <html>
   <head>
 
+
+  <!-- SEO optimizacija da nas bo folk lahko stalku na googlu -->
+  <meta name="description" content="Spletna stran živali, ki se imenujejo R1C.">
+  <meta name="keywords" content="R1C, R. 1. C, juje, satan, vegova, elektrotehnika, računalništvo, razred, spletna stran, R.1.C, letnik, 1. letnik">
+
+
+
+
+
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
