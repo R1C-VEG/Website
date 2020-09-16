@@ -26,7 +26,7 @@
     <div class="wDiv">
       <h1 class="text-center border-bottom pb-3"> Pozdravljen na naši strani! </h1>
         <p class="pt-3"> Evo, tuki gor mate uporabne linke. Upam, da vam bodo kaj pomagali! </p>
-        <p> Za predloge kaj bi dali tuki pišite na discordu (@Programerji). </p>
+        <p> Za predloge kaj bi dali tuki pišite na discordu (<font color="#ec6521">@Programerji</font>). </p>
     </div>
 
     <!-- Optional JavaScript -->
