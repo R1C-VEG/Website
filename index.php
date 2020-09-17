@@ -50,7 +50,7 @@
     ?>
 
     <div class="wDiv">
-      <h1 style="background: rgb(2,0,36); text-size:16px; background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 40%, rgba(3,143,210,1) 72%, rgba(2,170,228,1) 83%, rgba(88,227,255,1) 100%);" class="text-center border-bottom pb-3"> Pozdravljeni na naši strani! </h1>
+      <h1 style="color: rgb(2,0,36); text-size:16px; color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 40%, rgba(3,143,210,1) 72%, rgba(2,170,228,1) 83%, rgba(88,227,255,1) 100%);" class="text-center border-bottom pb-3"> Pozdravljeni na naši strani! </h1>
         <p class="pt-3"> Ahoi! Morda se sprašujete... Zakaj bi imel razred svojo spletno stran? Po pravic povedan, tut sami ne vemo. Mostly bragging rights. A lahko R1B reče da ma svojo spletno stran? Ne! (še) </p>
         
     </div>
