@@ -3,8 +3,9 @@
   
   <style>
     .naslov {
-  font-size: 16px;
-  background: -webkit-linear-gradient(#eee, #333);
+      text-align:center;
+  font-size: 48px;
+  background: -webkit-linear-gradient(#2d23ba, #00ffff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
