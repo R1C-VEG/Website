@@ -3,13 +3,13 @@
   
   <style>
     .naslov {
-      text-align:center;
+  text-align:center;
   font-size: 48px;
   background: -webkit-linear-gradient(#2d23ba, #00ffff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
-    
+   font-family: 'Poiret One', cursive;
+    } 
   </style>
   
   
@@ -51,6 +51,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="shortcut icon" href="https://r1c.juje.si/favicon.ico"/>
+    <link href="https://fonts.googleapis.com/css2?family=Poiret+One&display=swap" rel="stylesheet">
 
     <title> R1C website </title>
 
