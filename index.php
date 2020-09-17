@@ -53,7 +53,7 @@
     <link rel="shortcut icon" href="https://r1c.juje.si/favicon.ico"/>
     <link href="https://fonts.googleapis.com/css2?family=Poiret+One&display=swap" rel="stylesheet">
 
-    <title> R1C website </title>
+    <title> R1C - Vegova </title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
