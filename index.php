@@ -21,7 +21,7 @@
 
   <!-- SEO optimizacija da nas bo folk lahko stalku na googlu -->
   <meta name="description" content="Spletna stran živali, ki se imenujejo R1C.">
-  <meta name="keywords" content="R1C, R. 1. C, juje, satan, vegova, elektrotehnika, računalništvo, razred, spletna stran, R.1.C, letnik, 1. letnik", 2005>
+  <meta name="keywords" content="R1C, R. 1. C, juje, satan, vegova, elektrotehnika, računalništvo, razred, spletna stran, R.1.C, letnik, 1. letnik, 2005, karin kastelic, programiranje, 206, uroš, breskvar, uros, html, css, python, java skript, vegovacraft, jure, macek, maček, nejc, krasevec, kraševec", 2005>
 
 
 
