@@ -51,8 +51,8 @@
 
     <div class="wDiv">
       <h1 class="text-center border-bottom pb-3"> Pozdravljen na naši strani! </h1>
-        <p class="pt-3"> Evo, tuki gor mate uporabne linke. Upam, da vam bodo kaj pomagali! </p>
-        <p> Za predloge kaj bi dali tuki pišite na discordu (<font color="#ec6521">@Programerji</font>). </p>
+        <p class="pt-3"> Ahoi! Morda se sprašujete... Zakaj bi imel razred svojo spletno stran? Po pravic povedan, tut sami ne vemo. Mostly bragging rights. A lahko R1B reče da ma svojo spletno stran? Ne! (še) </p>
+        
     </div>
 
     <!-- Optional JavaScript -->
