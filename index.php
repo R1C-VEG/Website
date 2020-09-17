@@ -50,7 +50,7 @@
     ?>
 
     <div class="wDiv">
-      <h1 class="text-center border-bottom pb-3"> Pozdravljen na naši strani! </h1>
+      <h1 class="text-center border-bottom pb-3"> Pozdravljeni na naši strani! </h1>
         <p class="pt-3"> Ahoi! Morda se sprašujete... Zakaj bi imel razred svojo spletno stran? Po pravic povedan, tut sami ne vemo. Mostly bragging rights. A lahko R1B reče da ma svojo spletno stran? Ne! (še) </p>
         
     </div>
