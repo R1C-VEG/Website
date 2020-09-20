@@ -47,8 +47,8 @@
 
     <div class="wDiv">
       <h1 class="text-center border-bottom pb-3"> To so rešitve! </h1>    
-      <p class="pt-3"> <a href:https://www.srednja.net/index.php?r=downloadMaterial&id=15521&file=1> Barve jezika 1.del </a>
-                      <a href:https://www.srednja.net/index.php?r=downloadMaterial&id=15531&file=1> Barve jezika 2.del </a>
+      <p class="pt-3"> <a href="https://www.srednja.net/index.php?r=downloadMaterial&id=15521&file=1"> Barve jezika 1.del </a>
+                      <a href="https://www.srednja.net/index.php?r=downloadMaterial&id=15531&file=1"> Barve jezika 2.del </a>
         </p>
     </div>
     
