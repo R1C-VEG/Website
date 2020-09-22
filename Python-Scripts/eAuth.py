@@ -4,10 +4,10 @@ from eAsistent import getNewToken
 from os import environ
 
 with open("koda.txt", "r") as koda:
-      koda = koda.read()
+      koda = str(koda.read()).replace("\n", "")
 
 
-auth = getNewToken(environ.get("EA_Uporabnik"), koda)         
+auth = getNewToken(str(environ["EA_Uporabnik"]), koda)         
 with open("auth.txt", "wb") as f:
       f.write(bytes("{}{}".format(auth[0], "\n"), "UTF-8"))
       f.write(auth[1])
