@@ -10,4 +10,4 @@ with open("koda.txt", "r") as koda:
 auth = getNewToken(str(environ["EA_Uporabnik"]), koda)         
 with open("auth.txt", "wb") as f:
       f.write(bytes("{}{}".format(auth[0], "\n"), "UTF-8"))
-      f.write(bytes(auth[1]))
+      f.write(bytes(auth[1], "UTF-8"))
