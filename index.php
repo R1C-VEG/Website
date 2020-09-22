@@ -12,39 +12,22 @@
     } 
   </style>
   
-  
-  
-  
-  
-  
-  
   <head>
 
+    <!-- Ne premikat iz heada! To je google stalk tool! - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-173502320-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
+      gtag('config', 'UA-173502320-2');
+    </script>
 
-<!-- Ne premikat iz heada! To je google stalk tool! - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173502320-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-173502320-2');
-</script>
-
-
-
-
-
-
-  <!-- SEO optimizacija da nas bo folk lahko stalku na googlu -->
-  <meta name="description" content="Spletna stran živali, ki se imenujejo R1C.">
-  <meta name="keywords" content="R1C, R. 1. C, juje, satan, vegova, elektrotehnika, računalništvo, razred, spletna stran, R.1.C, letnik, 1. letnik, 2005, karin kastelic, programiranje, 206, uroš, breskvar, uros, html, css, python, java skript, vegovacraft, jure, macek, maček, nejc, krasevec, kraševec, hitler, đ, ž, satan, php, github, ekm, moodle2, linki, r1c linki, povezave, ljubljana, center, vegova ulica, šola, srednja šola, dijaki">
-  <link rel="alternate" href="https://r1c.juje.si" hreflang="sl-si" />
-
-  
-
-
+    <!-- SEO optimizacija da nas bo folk lahko stalku na googlu -->
+    <meta name="description" content="Spletna stran živali, ki se imenujejo R1C.">
+    <meta name="keywords" content="R1C, R. 1. C, juje, satan, vegova, elektrotehnika, računalništvo, razred, spletna stran, R.1.C, letnik, 1. letnik, 2005, karin kastelic, programiranje, 206, uroš, breskvar, uros, html, css, python, java skript, vegovacraft, jure, macek, maček, nejc, krasevec, kraševec, hitler, đ, ž, satan, php, github, ekm, moodle2, linki, r1c linki, povezave, ljubljana, center, vegova ulica, šola, srednja šola, dijaki">
+    <link rel="alternate" href="https://r1c.juje.si" hreflang="sl-si" />
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -65,13 +48,12 @@
   <body>
     
     <?php
-      require 'templates/navbar.html';
+      require_once 'templates/navbar.html';
     ?>
 
     <div class="wDiv">
       <h1 class="naslov"> Pozdravljeni na naši strani! </h1>
-        <p class="pt-3"> Ahoi! Morda se sprašujete... Zakaj bi imel razred svojo spletno stran? Po pravic povedan, tut sami ne vemo. Mostly bragging rights. A lahko R1B reče da ma svojo spletno stran? Ne! (še) <br> <br> PS: Zato ker jo mamo mi še ne pomeni, da jo morete fejkat!</p>
-        
+        <p class="pt-3"> Ahoi! Morda se sprašujete... Zakaj bi imel razred svojo spletno stran? Po pravic povedan, tut sami ne vemo. Mostly bragging rights. A lahko R1B reče da ma svojo spletno stran? Ne! (še) <br> <br> PS: Zato ker jo mamo mi še ne pomeni, da jo morete fejkat!</p>        
     </div>
 
     <!-- Optional JavaScript -->
