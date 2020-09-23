@@ -49,7 +49,6 @@
     <br>
     <br>
     <br>
-    <br>
     <div class="wDiv">
       <h1 class="text-center border-bottom pb-3"> To je koledar!</h1>    
      <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FBelgrade&amp;src=bXQyc2l1dHViN2lwZGRpdnQ0c2ZxZ2ZvOG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%238E24AA&amp;showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0" style="border-width:0" width="800" height="500" frameborder="0" scrolling="no"></iframe>
