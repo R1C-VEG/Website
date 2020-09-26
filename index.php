@@ -26,7 +26,7 @@
 
     <!-- SEO optimizacija da nas bo folk lahko stalku na googlu -->
     <meta name="description" content="Spletna stran živali, ki se imenujejo R1C.">
-    <meta name="keywords" content="R1C, R. 1. C, juje, satan, vegova, elektrotehnika, računalništvo, razred, spletna stran, R.1.C, letnik, 1. letnik, 2005, karin kastelic, programiranje, 206, uroš, breskvar, uros, html, css, python, java skript, vegovacraft, jure, macek, maček, nejc, krasevec, kraševec, hitler, đ, ž, satan, php, github, ekm, moodle2, linki, r1c linki, povezave, ljubljana, center, vegova ulica, šola, srednja šola, dijaki">
+    <meta name="keywords" content="R1C, R. 1. C, juje, satan, vegova, elektrotehnika, računalništvo, razred, spletna stran, R.1.C, letnik, 1. letnik, 2005, karin kastelic, programiranje, 206, uroš, breskvar, uros, html, css, python, java skript, vegovacraft, jure, macek, maček, nejc, krasevec, kraševec, hitler, đ, ž, satan, php, github, ekm, moodle2, linki, r1c linki, povezave, ljubljana, center, vegova ulica, šola, srednja šola, dijaki, R1B, R1A, r1b, r1a, R1D, r1d, G1A, g1a, G1B, g1b, e1a, E1A, E1B, e1b, E1C, e1c, piflarji, center, kongresni trg, kongresc">
     <link rel="alternate" href="https://r1c.juje.si" hreflang="sl-si" />
 
     <!-- Required meta tags -->
